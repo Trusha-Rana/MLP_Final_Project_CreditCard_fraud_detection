@@ -21,7 +21,7 @@ This project applies machine learning techniques to detect fraudulent transactio
 ## Setup Instructions
 1. Clone the repository:  
    bash
-   git clone https://Trusha-Rana/MLP_Final_Project_CreditCard_fraud_detection.git
+   git clone : https://github.com/Trusha-Rana/MLP_Final_Project_CreditCard_fraud_detection.git
 2. Navigate to the project directory:
    bash
    cd final_project
